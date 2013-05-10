@@ -1,3 +1,4 @@
 ## Gender film series posters/flyers
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![picture alt](http://placekitten.com/200/300)
+These posters were created during 2012 and 2013.
